@@ -61,7 +61,7 @@ The general principles of tidy data are laid out by [Hadley Wickham](http://had.
 and [this video](http://vimeo.com/33727555). While both the paper and the video describe tidy data using [R](http://www.r-project.org/), the principles
 are more generally applicable:
 
-1. Each variable you measure should be in one column
+1. Each variable you measure should be in one column.
 1. Each different observation of that variable should be in a different row
 1. There should be one table for each "kind" of variable
 1. If you have multiple tables, they should include a column in the table that allows them to be joined or merged
